@@ -1,8 +1,4 @@
 dec: "基础设置"
-method: get
-httpurl: http://apicone.che168.com/config/getxnumber
-httpsurl: https://apicone.che168.com/config/getxnumber
-wiki: http://wiki.corpautohome.com/pages/viewpage.action?pageId=182229490
 ParamAndRes:
   -
     casename: case1

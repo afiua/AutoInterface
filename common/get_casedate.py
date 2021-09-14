@@ -91,7 +91,7 @@ class Param():
 
 if __name__ == '__main__':
     s = Param()
-    b= s.get_casedata('newclue.xlsx')
-    #b = s.get_casedata('usedcarassess.yaml')
+    #b= s.get_casedata('getxnumber.xlsx')
+    b = s.get_casedata('usedcarassess.yaml')
     print(b)
 
