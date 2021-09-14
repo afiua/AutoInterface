@@ -1,0 +1,165 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "TestGetxnumber",
+    "children" : [ {
+      "name" : "test_getxnumber[getxnumber0]",
+      "uid" : "efedb7ce8963b53d",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783232,
+        "stop" : 1631607783298,
+        "duration" : 66
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case1', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 1, 'producttype': 1}, {'xnumber': 4008303729}]" ]
+    }, {
+      "name" : "test_getxnumber[getxnumber1]",
+      "uid" : "3b9ea48208493a90",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783305,
+        "stop" : 1631607783334,
+        "duration" : 29
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case2', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 2, 'producttype': 1}, {'xnumber': 4008303403}]" ]
+    }, {
+      "name" : "test_getxnumber[getxnumber2]",
+      "uid" : "192ee83d8579cf53",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783341,
+        "stop" : 1631607783367,
+        "duration" : 26
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case3', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 1}, {'xnumber': 4008302549}]" ]
+    }, {
+      "name" : "test_getxnumber[getxnumber3]",
+      "uid" : "64be8d0324d1b00f",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783373,
+        "stop" : 1631607783387,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case4', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 1, 'producttype': 2}, {'xnumber': 4008302529}]" ]
+    }, {
+      "name" : "test_getxnumber[getxnumber4]",
+      "uid" : "6159a1878bef3d96",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783394,
+        "stop" : 1631607783435,
+        "duration" : 41
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case5', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 2, 'producttype': 2}, {'xnumber': 4008302460}]" ]
+    }, {
+      "name" : "test_getxnumber[getxnumber5]",
+      "uid" : "fc0ab30e833b2a48",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783442,
+        "stop" : 1631607783488,
+        "duration" : 46
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case6', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 2}, {'xnumber': 4008301479}]" ]
+    }, {
+      "name" : "test_getxnumber[getxnumber6]",
+      "uid" : "7a56c58de38cfc03",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783494,
+        "stop" : 1631607783532,
+        "duration" : 38
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case7', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 1, 'producttype': 3}, {'xnumber': 4008301477}]" ]
+    }, {
+      "name" : "test_getxnumber[getxnumber7]",
+      "uid" : "782b80e0d5a8390b",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783548,
+        "stop" : 1631607783562,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case8', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 2, 'producttype': 3}, {'xnumber': 4008301472}]" ]
+    }, {
+      "name" : "test_getxnumber[getxnumber8]",
+      "uid" : "afe5a495cdc816c7",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783569,
+        "stop" : 1631607783614,
+        "duration" : 45
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case9', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 3}, {'xnumber': 4008301427}]" ]
+    }, {
+      "name" : "test_getxnumber[getxnumber9]",
+      "uid" : "6f7d63750e15eae0",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783622,
+        "stop" : 1631607783659,
+        "duration" : 37
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case10', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 1, 'producttype': 4}, {'xnumber': 4008301247}]" ]
+    }, {
+      "name" : "test_getxnumber[getxnumber10]",
+      "uid" : "35052330fc6ffbef",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783666,
+        "stop" : 1631607783682,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case11', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 2, 'producttype': 4}, {'xnumber': 4008661213}]" ]
+    }, {
+      "name" : "test_getxnumber[getxnumber11]",
+      "uid" : "4cc11efd63d1d7b5",
+      "parentUid" : "fe65b86dca5109b1ba9093dc17be37a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607783689,
+        "stop" : 1631607783723,
+        "duration" : 34
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['case12', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 4}, {'xnumber': 4008301243}]" ]
+    } ],
+    "uid" : "fe65b86dca5109b1ba9093dc17be37a2"
+  } ]
+}

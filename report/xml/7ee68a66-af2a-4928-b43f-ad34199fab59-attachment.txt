@@ -1,0 +1,4 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:204 Starting new HTTP connection (1): 127.0.0.1:8888
+DEBUG    urllib3.connectionpool:connectionpool.py:391 http://127.0.0.1:8888 "GET http://apicone.che168.com/config/getxnumber?_appid=2scapp.ios&fromtype=1&producttype=2 HTTP/1.1" 200 69
+INFO     logs>>>>>:assertion.py:19 expectmsg:4008302529 不等于resultmsg:4008302529
+INFO     logs>>>>>:assertion.py:23 error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>

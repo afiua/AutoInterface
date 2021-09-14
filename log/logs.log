@@ -1,0 +1,72 @@
+2021-09-14 16:20:22,644 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008303729} 不等于resultmsg:4008303729
+2021-09-14 16:20:22,904 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:20:23,410 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008303403} 不等于resultmsg:4008303403
+2021-09-14 16:20:23,412 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:20:23,453 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008302549} 不等于resultmsg:4008302549
+2021-09-14 16:20:23,456 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:20:23,514 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008302529} 不等于resultmsg:4008302529
+2021-09-14 16:20:23,517 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:20:23,562 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008302460} 不等于resultmsg:4008302460
+2021-09-14 16:20:23,565 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:20:23,604 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008301479} 不等于resultmsg:4008301479
+2021-09-14 16:20:23,607 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:20:23,639 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008301477} 不等于resultmsg:4008301477
+2021-09-14 16:20:23,643 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:20:23,672 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008301472} 不等于resultmsg:4008301472
+2021-09-14 16:20:23,675 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:20:23,719 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008301427} 不等于resultmsg:4008301427
+2021-09-14 16:20:23,722 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:20:23,759 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008301247} 不等于resultmsg:4008301247
+2021-09-14 16:20:23,761 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:20:23,788 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008661213} 不等于resultmsg:4008661213
+2021-09-14 16:20:23,791 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:20:23,817 - logs>>>>> - INFO - expectmsg:{'xnumber': 4008301243} 不等于resultmsg:4008301243
+2021-09-14 16:20:23,820 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:18,714 - logs>>>>> - INFO - expectmsg:4008303729 不等于resultmsg:4008303729
+2021-09-14 16:21:18,727 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:19,032 - logs>>>>> - INFO - expectmsg:4008303403 不等于resultmsg:4008303403
+2021-09-14 16:21:19,034 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:19,190 - logs>>>>> - INFO - expectmsg:4008302549 不等于resultmsg:4008302549
+2021-09-14 16:21:19,193 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:19,256 - logs>>>>> - INFO - expectmsg:4008302529 不等于resultmsg:4008302529
+2021-09-14 16:21:19,260 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:19,319 - logs>>>>> - INFO - expectmsg:4008302460 不等于resultmsg:4008302460
+2021-09-14 16:21:19,322 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:19,403 - logs>>>>> - INFO - expectmsg:4008301479 不等于resultmsg:4008301479
+2021-09-14 16:21:19,407 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:19,475 - logs>>>>> - INFO - expectmsg:4008301477 不等于resultmsg:4008301477
+2021-09-14 16:21:19,478 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:19,527 - logs>>>>> - INFO - expectmsg:4008301472 不等于resultmsg:4008301472
+2021-09-14 16:21:19,530 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:19,573 - logs>>>>> - INFO - expectmsg:4008301427 不等于resultmsg:4008301427
+2021-09-14 16:21:19,576 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:19,616 - logs>>>>> - INFO - expectmsg:4008301247 不等于resultmsg:4008301247
+2021-09-14 16:21:19,618 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:19,677 - logs>>>>> - INFO - expectmsg:4008661213 不等于resultmsg:4008661213
+2021-09-14 16:21:19,680 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:21:19,732 - logs>>>>> - INFO - expectmsg:4008301243 不等于resultmsg:4008301243
+2021-09-14 16:21:19,734 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 22 in test_getxnumber>
+2021-09-14 16:22:26,184 - logs>>>>> - INFO - expectmsg:4008303729 不等于resultmsg:4008303729
+2021-09-14 16:22:26,193 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>
+2021-09-14 16:22:26,492 - logs>>>>> - INFO - expectmsg:4008303403 不等于resultmsg:4008303403
+2021-09-14 16:22:26,497 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>
+2021-09-14 16:22:26,573 - logs>>>>> - INFO - expectmsg:4008302549 不等于resultmsg:4008302549
+2021-09-14 16:22:26,576 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>
+2021-09-14 16:22:26,604 - logs>>>>> - INFO - expectmsg:4008302529 不等于resultmsg:4008302529
+2021-09-14 16:22:26,608 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>
+2021-09-14 16:22:26,636 - logs>>>>> - INFO - expectmsg:4008302460 不等于resultmsg:4008302460
+2021-09-14 16:22:26,640 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>
+2021-09-14 16:22:26,706 - logs>>>>> - INFO - expectmsg:4008301479 不等于resultmsg:4008301479
+2021-09-14 16:22:26,709 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>
+2021-09-14 16:22:26,770 - logs>>>>> - INFO - expectmsg:4008301477 不等于resultmsg:4008301477
+2021-09-14 16:22:26,773 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>
+2021-09-14 16:22:26,830 - logs>>>>> - INFO - expectmsg:4008301472 不等于resultmsg:4008301472
+2021-09-14 16:22:26,833 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>
+2021-09-14 16:22:26,866 - logs>>>>> - INFO - expectmsg:4008301427 不等于resultmsg:4008301427
+2021-09-14 16:22:26,873 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>
+2021-09-14 16:22:26,910 - logs>>>>> - INFO - expectmsg:4008301247 不等于resultmsg:4008301247
+2021-09-14 16:22:26,913 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>
+2021-09-14 16:22:26,956 - logs>>>>> - INFO - expectmsg:4008661213 不等于resultmsg:4008661213
+2021-09-14 16:22:26,959 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>
+2021-09-14 16:22:26,993 - logs>>>>> - INFO - expectmsg:4008301243 不等于resultmsg:4008301243
+2021-09-14 16:22:26,996 - logs>>>>> - INFO - error on:<FrameSummary file E:\study\UsedAutoInterface\testcase\test_getxnumber.py, line 24 in test_getxnumber>

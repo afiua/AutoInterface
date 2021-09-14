@@ -1,0 +1,94 @@
+{
+  "uid" : "a804b66048bae8d",
+  "name" : "test_getxnumber[getxnumber0]",
+  "fullName" : "testcase.test_getxnumber.TestGetxnumber#test_getxnumber",
+  "historyId" : "12dfcde616fc0efa311c01a7fcbfdc73",
+  "time" : {
+    "start" : 1631607579348,
+    "stop" : 1631607579387,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "getxnumber",
+    "time" : {
+      "start" : 1631607579346,
+      "stop" : 1631607579346,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d6dc21382e977407",
+      "name" : "log",
+      "source" : "d6dc21382e977407.txt",
+      "type" : "text/plain",
+      "size" : 287
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestGetxnumber"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_getxnumber"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGetxnumber"
+  }, {
+    "name" : "host",
+    "value" : "AT7229-1"
+  }, {
+    "name" : "thread",
+    "value" : "66476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_getxnumber"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "getxnumber",
+    "value" : "['case1', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 1, 'producttype': 1}, {'xnumber': 4008303729}]"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a804b66048bae8d.json",
+  "parameterValues" : [ "['case1', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 1, 'producttype': 1}, {'xnumber': 4008303729}]" ]
+}

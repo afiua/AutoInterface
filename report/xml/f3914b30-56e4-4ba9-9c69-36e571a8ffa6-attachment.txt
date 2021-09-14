@@ -1,0 +1,2 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:204 Starting new HTTP connection (1): 127.0.0.1:8888
+DEBUG    urllib3.connectionpool:connectionpool.py:391 http://127.0.0.1:8888 "GET http://apicone.che168.com/config/getxnumber?_appid=2scapp.ios&fromtype=1&producttype=3 HTTP/1.1" 200 69

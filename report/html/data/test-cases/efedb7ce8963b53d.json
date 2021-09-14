@@ -1,0 +1,148 @@
+{
+  "uid" : "efedb7ce8963b53d",
+  "name" : "test_getxnumber[getxnumber0]",
+  "fullName" : "testcase.test_getxnumber.TestGetxnumber#test_getxnumber",
+  "historyId" : "12dfcde616fc0efa311c01a7fcbfdc73",
+  "time" : {
+    "start" : 1631607783232,
+    "stop" : 1631607783298,
+    "duration" : 66
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "getxnumber",
+    "time" : {
+      "start" : 1631607783230,
+      "stop" : 1631607783230,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b88d958a096bb6da",
+      "name" : "log",
+      "source" : "b88d958a096bb6da.txt",
+      "type" : "text/plain",
+      "size" : 287
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "feature",
+    "value" : "TestGetxnumber"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_getxnumber"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGetxnumber"
+  }, {
+    "name" : "host",
+    "value" : "AT7229-1"
+  }, {
+    "name" : "thread",
+    "value" : "59300-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_getxnumber"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "getxnumber",
+    "value" : "['case1', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 1, 'producttype': 1}, {'xnumber': 4008303729}]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "543aa718ee561c7b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1631607746114,
+        "stop" : 1631607746194,
+        "duration" : 80
+      }
+    }, {
+      "uid" : "9f3713464458024b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1631607678663,
+        "stop" : 1631607678727,
+        "duration" : 64
+      }
+    }, {
+      "uid" : "a10769a878b32d48",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'result'",
+      "time" : {
+        "start" : 1631607659225,
+        "stop" : 1631607659300,
+        "duration" : 75
+      }
+    }, {
+      "uid" : "d5a5c058943d8ce",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1631607622595,
+        "stop" : 1631607622905,
+        "duration" : 310
+      }
+    }, {
+      "uid" : "a804b66048bae8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607579348,
+        "stop" : 1631607579387,
+        "duration" : 39
+      }
+    }, {
+      "uid" : "f3b61e65f70fbb1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631607411861,
+        "stop" : 1631607411920,
+        "duration" : 59
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "efedb7ce8963b53d.json",
+  "parameterValues" : [ "['case1', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 1, 'producttype': 1}, {'xnumber': 4008303729}]" ]
+}

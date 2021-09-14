@@ -1,0 +1,121 @@
+[ {
+  "uid" : "6f7d63750e15eae0",
+  "name" : "test_getxnumber[getxnumber9]",
+  "time" : {
+    "start" : 1631607783622,
+    "stop" : 1631607783659,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "782b80e0d5a8390b",
+  "name" : "test_getxnumber[getxnumber7]",
+  "time" : {
+    "start" : 1631607783548,
+    "stop" : 1631607783562,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "3b9ea48208493a90",
+  "name" : "test_getxnumber[getxnumber1]",
+  "time" : {
+    "start" : 1631607783305,
+    "stop" : 1631607783334,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "efedb7ce8963b53d",
+  "name" : "test_getxnumber[getxnumber0]",
+  "time" : {
+    "start" : 1631607783232,
+    "stop" : 1631607783298,
+    "duration" : 66
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "afe5a495cdc816c7",
+  "name" : "test_getxnumber[getxnumber8]",
+  "time" : {
+    "start" : 1631607783569,
+    "stop" : 1631607783614,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "192ee83d8579cf53",
+  "name" : "test_getxnumber[getxnumber2]",
+  "time" : {
+    "start" : 1631607783341,
+    "stop" : 1631607783367,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "fc0ab30e833b2a48",
+  "name" : "test_getxnumber[getxnumber5]",
+  "time" : {
+    "start" : 1631607783442,
+    "stop" : 1631607783488,
+    "duration" : 46
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "7a56c58de38cfc03",
+  "name" : "test_getxnumber[getxnumber6]",
+  "time" : {
+    "start" : 1631607783494,
+    "stop" : 1631607783532,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "6159a1878bef3d96",
+  "name" : "test_getxnumber[getxnumber4]",
+  "time" : {
+    "start" : 1631607783394,
+    "stop" : 1631607783435,
+    "duration" : 41
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "35052330fc6ffbef",
+  "name" : "test_getxnumber[getxnumber10]",
+  "time" : {
+    "start" : 1631607783666,
+    "stop" : 1631607783682,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "64be8d0324d1b00f",
+  "name" : "test_getxnumber[getxnumber3]",
+  "time" : {
+    "start" : 1631607783373,
+    "stop" : 1631607783387,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "4cc11efd63d1d7b5",
+  "name" : "test_getxnumber[getxnumber11]",
+  "time" : {
+    "start" : 1631607783689,
+    "stop" : 1631607783723,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

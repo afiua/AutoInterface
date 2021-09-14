@@ -1,0 +1,53 @@
+dec: "基础设置"
+method: get
+httpurl: http://apicone.che168.com/config/getxnumber
+httpsurl: https://apicone.che168.com/config/getxnumber
+wiki: http://wiki.corpautohome.com/pages/viewpage.action?pageId=182229490
+ParamAndRes:
+  -
+    casename: case1
+    parameter:
+      _appid: m.m
+      cid: 110100
+      pid: 110000
+      mileage: 59000
+      firstregtime: '2017-06-01'
+      specid: 28599
+      iscondition: 1
+      _appversion: 2.04v
+      mark: uahm20001
+    exceptresult:
+      referenceprice: 51.53
+    cookies:
+      test: sadfasdf
+  -
+    casename: case2
+    parameter:
+      _appid: m.m
+      cid: 130100
+      pid: 130000
+      mileage: 59000
+      firstregtime: '2017-06-01'
+      specid: 28599
+      iscondition: 1
+      _appversion: 2.04v
+      mark: uahm20001
+    exceptresult:
+      referenceprice: 51.40
+    cookies:
+      test: sadfasdf
+  -
+    casename: case3
+    parameter:
+      _appid: m.m
+      cid: 230100
+      pid: 230000
+      mileage: 59000
+      firstregtime: '2017-06-01'
+      specid: 28599
+      iscondition: 1
+      _appversion: 2.04v
+      mark: uahm20001
+    exceptresult:
+      referenceprice: 50.1
+

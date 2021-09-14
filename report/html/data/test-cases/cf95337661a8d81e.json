@@ -1,0 +1,98 @@
+{
+  "uid" : "cf95337661a8d81e",
+  "name" : "test_getxnumber[getxnumber5]",
+  "fullName" : "testcase.test_getxnumber.TestGetxnumber#test_getxnumber",
+  "historyId" : "832312b1ed9850a46e3698f975adcbf1",
+  "time" : {
+    "start" : 1631607659722,
+    "stop" : 1631607659777,
+    "duration" : 55
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'result'",
+  "statusTrace" : "self = <test_getxnumber.TestGetxnumber object at 0x000002CDBF6BA0A0>\ngetxnumber = ['case6', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 2}, {'xnumber': 4008301479}]\n\n    @allure.feature('TestGetxnumber')\n    @allure.severity('blocker')\n    def test_getxnumber(self,getxnumber):\n        assertt = assertion.Assertion()\n        self.case_name = getxnumber[0]\n        self.path = getxnumber[1]\n        self.method = getxnumber[2]\n        self.cookies = getxnumber[3]\n        self.query = getxnumber[4]\n        self.chcek_result = getxnumber[5]\n        result = HttpRequest().send_request(self.method, self.path, self.query,self.cookies)  # 根据Excel中的method调用run_main来进行requests请求，并拿到响应\n    \n        #下面自己补充断言或者其他验证数据的逻辑即可\n>       assertt.assert_common(self.chcek_result['result'], result['result']['xnumber'])\nE       KeyError: 'result'\n\ntestcase\\test_getxnumber.py:22: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "getxnumber",
+    "time" : {
+      "start" : 1631607659722,
+      "stop" : 1631607659722,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'result'",
+    "statusTrace" : "self = <test_getxnumber.TestGetxnumber object at 0x000002CDBF6BA0A0>\ngetxnumber = ['case6', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 2}, {'xnumber': 4008301479}]\n\n    @allure.feature('TestGetxnumber')\n    @allure.severity('blocker')\n    def test_getxnumber(self,getxnumber):\n        assertt = assertion.Assertion()\n        self.case_name = getxnumber[0]\n        self.path = getxnumber[1]\n        self.method = getxnumber[2]\n        self.cookies = getxnumber[3]\n        self.query = getxnumber[4]\n        self.chcek_result = getxnumber[5]\n        result = HttpRequest().send_request(self.method, self.path, self.query,self.cookies)  # 根据Excel中的method调用run_main来进行requests请求，并拿到响应\n    \n        #下面自己补充断言或者其他验证数据的逻辑即可\n>       assertt.assert_common(self.chcek_result['result'], result['result']['xnumber'])\nE       KeyError: 'result'\n\ntestcase\\test_getxnumber.py:22: KeyError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "acfc5ef4686f70f9",
+      "name" : "log",
+      "source" : "acfc5ef4686f70f9.txt",
+      "type" : "text/plain",
+      "size" : 287
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestGetxnumber"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_getxnumber"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGetxnumber"
+  }, {
+    "name" : "host",
+    "value" : "AT7229-1"
+  }, {
+    "name" : "thread",
+    "value" : "72756-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_getxnumber"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "getxnumber",
+    "value" : "['case6', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 2}, {'xnumber': 4008301479}]"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf95337661a8d81e.json",
+  "parameterValues" : [ "['case6', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 2}, {'xnumber': 4008301479}]" ]
+}

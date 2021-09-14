@@ -1,0 +1,98 @@
+{
+  "uid" : "f1b2f9aae3cc05ec",
+  "name" : "test_getxnumber[getxnumber8]",
+  "fullName" : "testcase.test_getxnumber.TestGetxnumber#test_getxnumber",
+  "historyId" : "1f61c2f8d8a987f357f6f3c840b27bbc",
+  "time" : {
+    "start" : 1631607679545,
+    "stop" : 1631607679576,
+    "duration" : 31
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError",
+  "statusTrace" : "self = <test_getxnumber.TestGetxnumber object at 0x0000028AB1832E20>\ngetxnumber = ['case9', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 3}, {'xnumber': 4008301427}]\n\n    @allure.feature('TestGetxnumber')\n    @allure.severity('blocker')\n    def test_getxnumber(self,getxnumber):\n        assertt = assertion.Assertion()\n        self.case_name = getxnumber[0]\n        self.path = getxnumber[1]\n        self.method = getxnumber[2]\n        self.cookies = getxnumber[3]\n        self.query = getxnumber[4]\n        self.chcek_result = getxnumber[5]\n        result = HttpRequest().send_request(self.method, self.path, self.query,self.cookies)  # 根据Excel中的method调用run_main来进行requests请求，并拿到响应\n    \n        #下面自己补充断言或者其他验证数据的逻辑即可\n>       assertt.assert_common(self.chcek_result['xnumber'], result['result']['xnumber'])\n\ntestcase\\test_getxnumber.py:22: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <common.assertion.Assertion object at 0x0000028AB188C700>\nexpectmsg = 4008301427, resultmsg = '4008301427'\n\n    def assert_common(self, expectmsg, resultmsg):\n        #验证是否相等\n        try:\n>           assert expectmsg == resultmsg\nE           AssertionError\n\ncommon\\assertion.py:16: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "getxnumber",
+    "time" : {
+      "start" : 1631607679544,
+      "stop" : 1631607679544,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError",
+    "statusTrace" : "self = <test_getxnumber.TestGetxnumber object at 0x0000028AB1832E20>\ngetxnumber = ['case9', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 3}, {'xnumber': 4008301427}]\n\n    @allure.feature('TestGetxnumber')\n    @allure.severity('blocker')\n    def test_getxnumber(self,getxnumber):\n        assertt = assertion.Assertion()\n        self.case_name = getxnumber[0]\n        self.path = getxnumber[1]\n        self.method = getxnumber[2]\n        self.cookies = getxnumber[3]\n        self.query = getxnumber[4]\n        self.chcek_result = getxnumber[5]\n        result = HttpRequest().send_request(self.method, self.path, self.query,self.cookies)  # 根据Excel中的method调用run_main来进行requests请求，并拿到响应\n    \n        #下面自己补充断言或者其他验证数据的逻辑即可\n>       assertt.assert_common(self.chcek_result['xnumber'], result['result']['xnumber'])\n\ntestcase\\test_getxnumber.py:22: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <common.assertion.Assertion object at 0x0000028AB188C700>\nexpectmsg = 4008301427, resultmsg = '4008301427'\n\n    def assert_common(self, expectmsg, resultmsg):\n        #验证是否相等\n        try:\n>           assert expectmsg == resultmsg\nE           AssertionError\n\ncommon\\assertion.py:16: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4eedd232726dd5ff",
+      "name" : "log",
+      "source" : "4eedd232726dd5ff.txt",
+      "type" : "text/plain",
+      "size" : 520
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "TestGetxnumber"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_getxnumber"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGetxnumber"
+  }, {
+    "name" : "host",
+    "value" : "AT7229-1"
+  }, {
+    "name" : "thread",
+    "value" : "48240-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_getxnumber"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "getxnumber",
+    "value" : "['case9', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 3}, {'xnumber': 4008301427}]"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1b2f9aae3cc05ec.json",
+  "parameterValues" : [ "['case9', 'http://apicone.che168.com/config/getxnumber', 'get', {}, {'_appid': '2scapp.ios', 'fromtype': 3, 'producttype': 3}, {'xnumber': 4008301427}]" ]
+}
